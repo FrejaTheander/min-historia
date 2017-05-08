@@ -1,1 +1,2 @@
 Min historia: scen 1
+Kalle: välkomna till världens första git-pjäs!
