@@ -1,2 +1,4 @@
 Min historia: scen 1
-Karl: välkomna till världens första git-pjäs!
+
+Karl: välkomna till världens första git-pjäs! ett pistolskott hörs
+
