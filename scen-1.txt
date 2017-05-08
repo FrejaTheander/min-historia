@@ -1,4 +1,4 @@
-Min historia: scen 1
+﻿Min historia: scen 1
 
 Karl: välkomna till världens första git-pjäs! ett pistolskott hörs
 
@@ -8,4 +8,9 @@ hejhej
 
 Hej då!
 
-Linus <3 
+Martin <3 Freja
+
+Hallå där!
+
+Linus <3 Freja
+
